@@ -1,1 +1,1 @@
-console.log("Site carregado com sucesso 🚀");
+alert("Site carregado com sucesso 🚀");
